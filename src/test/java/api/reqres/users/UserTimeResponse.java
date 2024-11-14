@@ -1,4 +1,6 @@
-package api;
+package api.reqres.users;
+
+import api.reqres.users.UserTime;
 
 public class UserTimeResponse extends UserTime {
     private String updatedAt;

@@ -1,4 +1,4 @@
-package api;
+package api.reqres.colors;
 
 public class ColorsData {
     private  Integer id;
